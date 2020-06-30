@@ -23,7 +23,7 @@ ul.no-bullet {list-style: none}
 
 html {
   font-family: "Linux Libertine O", serif;
-  font-size: 170%; /* 100% for epub */
+  font-size: 120%; /* 100% for epub */
   color: #383838;
   line-height: 130%;
   /* 'liga' turns on ligatures, 'ss06' picks alternate ampersand */
@@ -36,7 +36,7 @@ html {
 
 @media (min-width: 481px) and (max-width: 720px) {
   html {
-    font-size: 140%; /* 100% for epub */
+    font-size: 120%; /* 100% for epub */
   }
   blockquote {
     margin-left:  1em;
