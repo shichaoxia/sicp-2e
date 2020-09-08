@@ -1,3 +1,3 @@
 # sicp-2e
 
-Structure and Interpretation of Computer Programs Second Edition
+Modified directly in HTML from [SICP](https://github.com/sarabander/sicp).
